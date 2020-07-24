@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_chat-policy",
+      "appId": "d065bfa6-0e4b-4d5d-9809-9f64edd50c08",
+      "authoringKey": "7938986ba73a4992a53c04369290434d",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "chat_policy",
+      "id": "1"
+    },
+    {
+      "intentName": "q_chat-qna",
+      "includePrompts": true,
+      "kbId": "d46455f5-4045-4770-8781-578b4afac1e1",
+      "subscriptionKey": "43b46eb000da46a0a213bfe8dcd883cb",
+      "type": "qna",
+      "name": "TP_Chatbot_v1",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "5bfd8f7c-f8e5-4988-af9b-cb206c523d89",
+  "authoringKey": "7938986ba73a4992a53c04369290434d",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "dispatcher"
+}

@@ -1,0 +1,96 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "Request_leave_info",
+      "features": []
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [
+    {
+      "name": "leave_type",
+      "subLists": [
+        {
+          "canonicalForm": "Annual",
+          "list": []
+        },
+        {
+          "canonicalForm": "sick",
+          "list": []
+        }
+      ],
+      "roles": []
+    }
+  ],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "can i take sick leave for 4 weeks ?",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "how many annual leaves am i eligible for?",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "how many leaves do i have remaining ?",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "how many sick leaves can i take?",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "i need annual leave as am going out of town for 5 days.",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "i want sick leave for 10 days",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "no. of annual leaves",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "number of annual leaves",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "show me number of leaves",
+      "intent": "Request_leave_info",
+      "entities": []
+    },
+    {
+      "text": "tell me no. of leaves",
+      "intent": "Request_leave_info",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1",
+  "name": "chat_policy",
+  "desc": "LUIS for NLP on Chatbot",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

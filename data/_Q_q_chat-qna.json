@@ -1,0 +1,1996 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 239,
+      "answer": "**Maternity Leave (ML)**\n\n*   26 weeks with pay during maternity\n*   Applicable to women officers on completing 80 days of service\n*   Accumulation is not applicable\n*   To be availed as a continuous leave pre & post delivery\n*   ML can be taken in conjunction with AL and Sabbatical Leave.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Maternity Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 252,
+            "displayText": "More Details"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 240,
+            "displayText": "Adoption & Surrogacy leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 242,
+            "displayText": "Extended Maternity Leave"
+          }
+        ]
+      }
+    },
+    {
+      "id": 240,
+      "answer": "**Adoption and Surrogacy Leave**\n\n* Maximum of 3 months with pay\n\n* Applicable to women officers on completing 80 days of service\n\n* Accumulation is not applicable\n\n* To be availed as a continuous leave\n\n* Can be availed only twice during tenure at Tata Power",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Adoption Leave for women",
+        "Surrogacy Leave for women"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 254,
+            "displayText": "More Details on Adoption leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 253,
+            "displayText": "More Details on Surrogacy leave "
+          }
+        ]
+      }
+    },
+    {
+      "id": 241,
+      "answer": "**Sick Leave (SL)**\n\n*   10 calendar days with pay, per year; minimum half day can be availed as SL\n*   Maximum accumulation of 90 days\n*   Medical Certificate to be provided to Reporting Manager for SL of more than 2 days\n*   SL cannot be combined with any other type of leave unless accompanied by a medical certificate.\n*   Special Sick Leave is granted in case of any severe long-term ailment",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Sick Leave",
+        "How many sick Leaves am I eligible for?",
+        "How many sick leaves can I take?",
+        "Tell me about sick leave.",
+        "Give me details of sick leave",
+        "Do you know about sick leave?",
+        "What is the leave policy regarding sick leave ?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 250,
+            "displayText": "More Details"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 251,
+            "displayText": "Special Sick leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 268,
+            "displayText": "Encashment of sick leave"
+          }
+        ]
+      }
+    },
+    {
+      "id": 242,
+      "answer": "**Extended Maternity Leave (EML)**\n\n*   Upto 4 weeks without pay\n*   Applicable to women officers on completing 80 days of service\n*   Accumulation is not applicable\n*   To be availed as a continuous leave\n*   Can be availed only twice during tenure at Tata Power\n*   EML can be taken in conjunction with AL and Sabbatical Leave.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Extended Maternity Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 270,
+            "displayText": "More Details"
+          }
+        ]
+      }
+    },
+    {
+      "id": 243,
+      "answer": "**Paternity Leave (including childbirth, adoption and surrogacy)**\n\n* 7 calendar days with pay\n\n* Applicable only to men officers\n\n* Accumulation is not applicable\n\n* To be availed as a continuous leave\n\n* Can be availed only twice during tenure at Tata Power",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Paternity Leave",
+        "Adoption leave for men",
+        "Surrogacy leave for men"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 255,
+            "displayText": "More Details"
+          }
+        ]
+      }
+    },
+    {
+      "id": 244,
+      "answer": "**Marriage Leave**\n\n*   5 working days with pay\n*   Applicable to single officers\n*   Can be availed upto 1 week before and 1 week after the officer's wedding\n*   Accumulation is not applicable\n*   To be availed as a continuous leave\n*   Can be availed only once during tenure at Tata Power\n*   Proof of marriage date must be submitted to the reporting manager while availing this leave.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Marriage Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 245,
+      "answer": "**Sabbatical Leave**\n\n*   For the first 7 years, 30 calendar days for every completed year of service & thereafter 45 calendar days for every completed year of service in Tata Power Group, subject to a limit of 540 days\n*   For example, if an officer has 10.5 years of service, the officer can avail a maximum of 345 calendar days of Sabbatical Leave.\n*   Leave without Pay and not encashable \n*   Eligible to avail the leave on completing 3 years of service in Tata Power group. Can be availed only once in the first 7 years of service.\n*   No commercial activity to be undertaken during the period. Grant of leave on management discretion.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Sabbatical Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 256,
+            "displayText": "More Details"
+          }
+        ]
+      }
+    },
+    {
+      "id": 246,
+      "answer": "**Relocation Leave**\n\n* Upto 4 working days with pay\n\n* Eligible only on transfer to another location\n\n* Subject to provisions as detailed in Joining and Transfer Benefits Policy",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Relocation Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 247,
+      "answer": "**Compassionate Leave**\n\n* 5 working days with pay\n\n* Can be availed in case of death of a close family member i.e., parents, spouse, children or siblings\n\n* Accumulation is not applicable\n\n* To be availed as a continuous leave\n\n* Can be availed only twice during tenure at Tata  Power",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Compassionate Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 248,
+      "answer": "**Higher Education Leave**\n\n* Maximum upto 2 years without pay\n\n* Eligible to avail the leave on completing 2 continuous years of service in Tata Power Group\n\n* Subject to provisions as detailed in Higher Education Support Policy",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Higher Education Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 249,
+      "answer": "**Workplace Accident Leave**\n\n90 days to 2 years based on severity of accident at workplace with pay\n\nSubject to provisions as detailed in Policy on Workplace Accident.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Workplace Accident Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 250,
+      "answer": "**Sick Leave**\n\n*   SL is calculated on a pro-rated basis. Pro-rated leave will be rounded off. Minimum half day can be availed as SL.\n*   SL may be carried forward each year, subject to a limit of 90 days.\n*   Officers who are retiring will get their entire SL entitlement for the retiring year credited to their account at the beginning of the year.\n*   As per the previous Leave Policy (Leave Policy 2013), officers who had SL balance above 90 days and were frozen in January 2014 can use that SL in case of a medical emergency. If unutilized, the excess SL balance will also be encashed in accordance with SL encashment norms.\n*   Intervening weekly offs and holidays will be counted as part of SL.\n*   Medical Certificate has to be provided to the reporting manager, on resuming service if SL of more than 2 days is availed.\n\nGroup Sick Leave:\n\nOfficers who join from other Tata group companies can transfer their accumulated Sick Leaves to their Tata Power leave account under the heading of Group Sick Leave, subject to a maximum of 90 days. Such leave cannot be encashed at the time of retirement. Their Sick Leave account will follow all the other rules for Sick Leave. For example, an officer who joins Tata Power from another Tata company has 112 days of accumulated Sick Leave in the previous company. On joining Tata Power, 90 days will be credited to the Group Sick Leave account and 22 days will lapse.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Detailed Sick Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 251,
+      "answer": "**Special Sick Leave**\n\nTo help officers recover from prolonged illness, Special Sick Leave is granted as follows:\n\nSalary Quantum for No. of months of leave :\n\n*   1 to 6 : Basic Salary + Monthly Allowances (full salary)\n*   7 to 12 : Half Basic Salary + Half Monthly Allowances (50% of full salary)\n*   13 to 18 : Quarter Basic Salary + Quarter Monthly Allowances (25% of full salary)\n*   19 to 24 : Without Pay\n\n*   Special Sick leave will be admissible in cases where an officer is suffering from any major prolonged illness like TB, Cancer, Cardiac, Renal condition, Paralysis or such ailment as may be deemed fit to be included by CMO or major surgery or hospitalization.\n*   Special Sick Leave will be granted only after all types of paid leave for the year & accumulations are fully utilized.\n*   After a period of two years if there is no appreciable improvement in the officer’s health, necessary steps would be initiated, to retire the concerned officer on medical grounds.\n*   All applications for special Sick Leave should be recommended by the respective SBU Head and mandatorily certified by the CMO. The final approval is given by CHRO.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Special Sick Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 252,
+      "answer": "**Maternity Leave (ML)**\n\n*   In order to be eligible for maternity leave, women officers need to have a minimum of 80 days of continuous service in the 12 months immediately preceding the date of expected delivery or as per the Maternity Benefits Act Rules as applicable.\n*   A woman officer is entitled to 26 weeks of ML. This leave can be availed up to 8 weeks before the date of delivery and the remaining may be availed after the date of delivery. This leave must be taken continuously without any break.\n*   In case of miscarriage or medical termination of pregnancy, the officer is entitled to 6 weeks of ML immediately following the day of miscarriage or medical termination of pregnancy.\n*   In case of illness arising out of pregnancy, delivery, premature birth, miscarriage, medical termination of pregnancy or tubectomy operation, the officer is entitled to leave in addition to Clause 5(c) or 5 (d), as the case may be, for a maximum period of 30 calendar days on production of medical certificate.\n*   The officer is required to apply for ML at least 2 months prior to the date of commencement of the leave. While applying for ML, the officer should submit a medical certificate verified by the CMO or CMO’s representative, to the reporting manager.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Detailed Maternity Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 269,
+            "displayText": "PMS for ML & EML"
+          }
+        ]
+      }
+    },
+    {
+      "id": 253,
+      "answer": "**Surrogacy Leave**\n\n*   Women officers, who are the commissioning mothers will be eligible for this leave on completing 80 days of continuous service in the 12 months immediately preceding the date of expected delivery of child, are eligible for paid Surrogacy Leave of 3 months starting from the date of delivery of the child.\n*   The required documentation including birth certificate and certification from an accredited Assisted Reproductive Technology (ART) clinic needs to be submitted to the reporting manager while applying for this leave.\n*   “Commissioning mother” means a biological mother who uses her egg to create an embryo implanted in any other woman.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Detailed Surrogacy Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 254,
+      "answer": "**Adoption Leave**\n\na. Women officers, on completing 80 days of continuous service in the 12 months immediately preceding the date of custody of child are eligible for paid Adoption Leave starting from the day of taking the legal custody of the child as follows:\n\n*   Age of child while availing Adoption Leave-> Quantum of leave\n*   Less than 1 year -> 3 months\n*   1 year or older -> 2 months\n\nb. Supporting legal documents of adoption of the child should be presented to the reporting manager while availing this leave.\n\nc. Adoption leave must be availed as a continuous leave without any break and can be availed twice during tenure at Tata Power.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Detailed Adoption Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 255,
+      "answer": "**Paternity Leave**\n\n*   Paternity leave can be taken up to 2 weeks before expected date of delivery and within 2 months after the child's birth. In case of adoption / surrogacy, the leave can be taken within 2 months of taking legal custody of the child.\n*   In case of adoption, supporting legal documents of adoption of the child should be presented to the reporting manager while availing this leave. In case of surrogacy, the required documentation including birth certificate and certification from an accredited Assisted Reproductive Technology (ART) clinic needs to be submitted to the reporting manager while applying for this leave.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Detailed Paternity Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 256,
+      "answer": "**Sabbatical Leave**\n\n*   Reasons for availing Sabbatical Leave may include, but not limited to, family exigencies, personal aspirations, health related reasons, maternity, social service, etc.\n*   Sabbatical Leave would be considered equivalent to Leave on Loss of Pay (LOP). Benefits such as housing, car, etc. can be continued as per eligibilities of the concerned officer. However, he / she would need to bear the requisite expenses, deductions, as applicable.\n*   Sabbatical Leave can be availed in conjunction with AL, ML and EML. Sabbatical Leave can be availed in conjunction with SL only in case of any medical exigency.\n*   The officer is required to apply for Sabbatical Leave at least 2 months prior to the date of commencement of the leave.\n*   The officer going on Sabbatical Leave shall not engage directly or indirectly in any trade /business or undertake any other employment or any conflicting arrangement, whatsoever in nature, within the country or overseas while he / she is on Sabbatical Leave.\n*   The officer going on Sabbatical Leave would not be eligible for increments and Performance Pay during the tenure of such leave. However, he / she would be paid proportionate Performance Pay for the balance period served in a year before proceeding on Sabbatical Leave or similarly part year after joining, as applicable.\n*   On joining back, the officer would be re-inducted into the system at the same grade and pay structure as he / she was on before proceeding on the Sabbatical Leave. The roles and responsibilities may however be reassigned, depending on organizational requirements.\n*   In case the officer after joining back, resigns before serving the organization for the equivalent period as that of the Sabbatical leave taken, the expenses incurred by the company towards housing, car benefits etc. during the period of the Sabbatical Leave will be recovered on a pro rata basis from the officer's Full & Final Settlement. In case the officer resigns while on Sabbatical Leave, then such expenses incurred by the company will be recovered in full from the officer's Full & Final Settlement.\n*   Any tax implication arising out of this policy would be in the hands of the officer concerned and any tax liability would be payable in advance, before proceeding on Sabbatical Leave, as applicable.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Detailed Sabbatical Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 257,
+            "displayText": "Process of Application"
+          }
+        ]
+      }
+    },
+    {
+      "id": 257,
+      "answer": "**Process of application:**\n\n*   Grant of leave on management discretion\n*   Eligible officers can put up an application for availing Sabbatical Leave stating the period for which leave is requested along with reasons and justification\n*   This application needs to be recommended by the reporting manager of the concerned officer\n*   Upon recommendation, the application would be reviewed by the Divisional HR representative of the officer and then sent to CHRO for approval\n*   The concerned officer can proceed on Sabbatical Leave once the application has been approved by CHRO for officers in work level MC and below. For officers in work levels MA and MB, the approval shall be conveyed by CHRO after formal consent by ED and MD.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Process of application:"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 258,
+      "answer": "**Leave on Account of “Bandh”**\n\nWhen a “Bandh” is called /declared by any political party or any other organization, such “Bandh” day will be treated as a normal working day. If, for any reason, an officer is absent on that day, he/she would be required to apply for leave. If the officer does not have leave to his/her credit, the day of absence would be treated as loss of pay.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Leave on Account of “Bandh”"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 259,
+      "answer": "**Leave Balance in case of Deputation**\n\nWhen an officer is deputed to another company on an assignment, the leave balance of that officer will be frozen till the assignment is completed and the officer returns to the parent company. During the period of deputation, the officer will be entitled to leaves which are applicable in the company that he/she is deputed to.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Leave Balance in case of Deputation"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 260,
+      "answer": "**Compensatory Leaves for working on weekly off**\n\n*   Officers having six working days in a week who work on the specified weekly off are eligible for one Compensatory Holiday. \n*   Officers having five working days in a week who work on both the specified weekly offs are eligible for one Compensatory Holiday.\n*   This Compensatory Holiday must be availed within the month in which the officer worked on the weekly off(s) or within the two months immediately following that month. An officer can only utilize one compensatory holiday in a week.\n*   In case the provisions as per law in a state differ from this provision, the provisions as per the law shall prevail.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Compensatory Leaves for weekly off"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 261,
+      "answer": "**Compensatory Leaves for weekly off**\n\n*   Officers who work on a defined General Holiday are eligible for a Compensatory Leave. This Compensatory Leave must be availed within three months of the General Holiday on which he/she has worked. If officers in operations functions and working in shifts are unable to avail this compensatory leave, it will be encashed at the daily basic rate at the end of the year and paid by the month of February of the next calendar year.\n*   Officers in operations functions and working in shifts, who work on one of the defined Optional holidays can adjust that holiday within the pool of other optional holidays declared by the company in that year. In case this category of officers is unable to avail this option till the end of the year, the same will be encashed at the daily basic rate and paid by the month of February of the next calendar year.\n*   Encashment of any compensatory leaves is only applicable for officers in operations functions and working in shifts.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Compensatory Leaves for Holidays"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 262,
+      "answer": "**Public Holidays**\n\nAll officers of the Company are eligible for 12 Public Holidays which are declared at the beginning of the year.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Public Holidays"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 263,
+      "answer": "**E muster**\n\n*   All officers should mark their attendance through e- muster on Sangam. If an officer has missed out on marking his/her attendance/OD/Leave, the officer should do so latest by the 15th of the next month. At the 15th of every month, any unmarked working days of the previous month will be considered as Unauthorized Leave (UL) and salary of these days will be deducted in the following month’s salary.\n*   For example, if an officer has forgotten to mark his attendance on e muster on 2 days in April, he/she can do so latest by 15th May. If the attendance is not marked by 15th May, then those 2 days will be treated as UL and salary for those 2 days will be deducted from May’s salary.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "E muster"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 264,
+      "answer": "**Procedure for availing Leave**\n\n*   The officer should apply for leave through the Leave Request module on 'Saarthi' in 'Sangam'. Where required, the approving authority will receive an email intimation to approve his / her subordinate’s leave request.\n*   The officer can proceed on leave only if the application is approved by the approving authority. In case of sick leave, the leave application must be submitted within 2 days of resuming duty.\n*   In case of compensatory leave, the officer will first have to apply for the compensatory leave. Once it gets credited to his/her account, he/she can apply and avail of the same.\n*   Approval of all leaves is at the discretion of Management.",
+      "source": "leave-policy-2018.pdf",
+      "questions": [
+        "Procedure for availing Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 265,
+      "answer": "Hi👋\n\nI can tell information about leaves😎",
+      "source": "Editorial",
+      "questions": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Namaste",
+        "leave policy"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 266,
+            "displayText": "Annual Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 241,
+            "displayText": "Sick Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 239,
+            "displayText": "Maternity Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 243,
+            "displayText": "Paternity Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 244,
+            "displayText": "Marriage Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 247,
+            "displayText": "Compassionate Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 245,
+            "displayText": "Sabbatical Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 248,
+            "displayText": "Higher Education Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 246,
+            "displayText": "Relocation Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 249,
+            "displayText": "Workplace Accident Leave"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 261,
+            "displayText": "Compensatory Leave for Holidays"
+          },
+          {
+            "displayOrder": 0,
+            "qnaId": 260,
+            "displayText": "Compensatory Leave - weekly off"
+          }
+        ]
+      }
+    },
+    {
+      "id": 266,
+      "answer": "*   30 working days with pay, earned in a year; minimum half day can be availed as AL\n*   8 of the 30 days of AL will be credited at the beginning of the calendar year.\n*   The remaining AL earned in the year will be credited at the beginning of the next calendar year\n*   Mandatory to avail minimum 50% of earned AL every year\n*   Maximum accumulation of 88 days\n*   Officers who are retiring will get their entire AL entitlement for the retiring year credited to their account at the beginning of the year.\n*   For newly joined officers, 25% of pro-rated AL for that year will be credited in their leave account at the time of joining. The rest of the AL they earn during the year will be credited to the officer's account at the beginning of the next calendar year.",
+      "source": "Editorial",
+      "questions": [
+        "Annual Leave",
+        "How many annual Leaves am I eligible for?",
+        "How many annual leaves can I take?",
+        "I want annual leave for 10 days.",
+        "Tell me about annual leave.",
+        "Give me details of annual leave",
+        "No. of annual leaves",
+        "Number of annual leaves",
+        "Do you know about annual leave?",
+        "What is the leave policy regarding annual leave ?",
+        "Can I take annual leave for 4 weeks"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 267,
+            "displayText": "Encashment of Annual leave"
+          }
+        ]
+      }
+    },
+    {
+      "id": 267,
+      "answer": "Annual Leave can be encashed at any point in a calendar year, provided a minimum balance of 15 days is maintained, with the following terms and conditions:\n\nOnly basic salary will be considered for the purpose of calculating leave encashment\n\nThe formula for encashment is as follows:\n\n*   No of days _(Basic salary/30)_ 7/5\n\nThe amount received on encashment of AL will be credited after deduction of applicable taxes 4. Any accumulation of AL in excess of 88 days, as on 31st December of that year, will be encashed automatically at the end of each year and paid in the salary of February of the next calendar year.\n\n*   The accumulated AL can be encashed at the time of retirement or resignation\n*   Request for Annual Leave encashment should be put through the Saarthi System. [Saarthi→My Services→ Working Time→ Leave Encashment",
+      "source": "Editorial",
+      "questions": [
+        "Encashment of Annual Leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 268,
+      "answer": "*   SL can be encashed only at the time of retirement or death whilst in service or voluntary retirement on medical grounds, subject to a maximum of 90 days.\n*   The amount received on encashment of Sick Leave will be taxable. The formula for encashment of Sick Leave is as follows:\n\n         (No of days) * (Basic salary/30)",
+      "source": "Editorial",
+      "questions": [
+        "Encashment of sick leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 269,
+      "answer": "The PMS appraisal for ML, ML + EML, Adoption & Surrogacy Leave cases will be as per the following methodology:\n\n1. Total number of leaves in current FY >180 days\n\n*   Officer's performance outcome will be protected and previous year's performance outcome will be accorded\n\n2. Total number of leaves in current FY > 90 days but less than 180 days\n\n*   Better of the two performance outcomes to be taken:\n*   Recommendation of HoD outside the regular process\n*   Previous year's performance outcome\n\n3. Total number of leaves in current FY <= 90 days\n\n*   To be assessed as part of regular process\n\nIf the ML / (ML + EML) spreads over two FYs and the number of leaves in each FY is greater than 90 days, then:\n\n*   Officer's performance outcome in the first year will be governed by point number 2 of the above table\n*   Officer's performance outcome in the second year will be as part of the regular process.",
+      "source": "Editorial",
+      "questions": [
+        "PMS for ML & EML"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 270,
+      "answer": "*   Extended Maternity Leave (EML) can be availed in continuation with ML or within one year of proceeding on ML. In case an officer is not eligible for ML, then she would not be eligible for EML as well.\n*   EML would be considered equivalent to Leave on Loss of Pay (LOP). Benefits such as housing, car, etc. can be continued as per eligibilities of the concerned Officer. However, she would need to bear the requisite expenses, deductions, as applicable.\n*   The officer is required to apply for EML at least 1 month prior to the date of commencement of the leave.\n*   EML must be availed as a continuous leave without any break.",
+      "source": "Editorial",
+      "questions": [
+        "Detailed Extended Maternity leave"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 269,
+            "displayText": "PMS for ML & EML"
+          }
+        ]
+      }
+    },
+    {
+      "id": 271,
+      "answer": "10 calendar days with pay, per year; minimum half day can be availed as SL",
+      "source": "Editorial",
+      "questions": [
+        "How many sick Leaves am I eligible for?",
+        "How many sick leaves can I take?",
+        "Can I take sick leave for 4 weeks",
+        "No. of sick leaves",
+        "Number of sick leaves"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 241,
+            "displayText": "More Details"
+          }
+        ]
+      }
+    },
+    {
+      "id": 272,
+      "answer": "**1. Summary of health and wellness benefits applicable to officers**\n\nSl.\n\nType of benefit\n\nDetails\n\nApplicable to\n\n1.1\n\n1.2\n\nMediclaim TopUp Cover\n\nOfficers can opt for top up of their Mediclaim cover (sum insured) as decided on a yearly basis. According to the officer’s choice & the work level, the premium amount shall be paid by the officer through deduction in salary. The premium amount will be announced annually. The minimum base coverage eligible for availing Top Up benefit is ₹4.0 Lakhs.\n\nOfficer & family members covered under the Mediclaim scheme\n\n1.3\n\nMedical Fund Scheme\n\nIn case an officer or his family members incur hospitalization expenses in excess of the sum insured under the Mediclaim scheme for hospitalization, the excess amount can be claimed under the Medical Fund Scheme, as per extant rules of the scheme. However, 10% of the total expenses incurred (including that covered by the Mediclaim scheme for hospitalization) should be borne by the officer and out of the 90% of the total excess expenses, 50% shall be paid through Medical Fund Scheme and remaining 50% shall be paid by the company.\n\nMedical Fund Scheme is applicable only in one of the following three cases:\n\nSum insured exhausted- as explained above\n\nSingle Diagnostic Test of ₹2,000 & above\n\nMedical expenses like single diagnostic tests beyond Rs. 2000/-, high cost medicines or any other specific treatment not covered under the Mediclaim coverage shall be payable through this scheme after examination and subject to approval from Chief medical Officer (CMO).\n\nOfficer & family members, covered under the Mediclaim scheme except parents-in-law\n\n1.4\n\nMedical Advance in case of hospitalization\n\nMedical advance in case of hospitalization under specified conditions and limits may be availed, subject to approval. This advance shall be recovered as follows:\n\nAdjustment against Mediclaim amount received from insurance company\n\nAdjustment against amount released through Medical Fund Scheme\n\nThe balance amount shall be recovered in 6 or 12 or 24 equal monthly installments as defined in 2.4 [c]\n\nOfficer & family members covered under the Mediclaim scheme\n\n1.5\n\nOPD facilities\n\nThe OPD facilities provided are detailed in Clause 2.5\n\nOfficer, spouse, dependent children\n\n(Parents subject to location specific guidelines)\n\n1.6\n\nDisbursement of medicines for chronic illness\n\nMedicines for chronic diseases may be availed from the Medical Centre, Carnac on approval of CMO, Tata Power.\n\nOfficer, spouse, dependent children & dependent parents\n\n1.7\n\nExecutive Health Checkup ('EHC')\n\na. Statutory EHC b. Wellness EHC\n\nOfficer\n\n1.8\n\nVoluntary OPD Scheme\n\nV-OPD\n\na. Available to Employees after opting for membership of VOPD scheme as defined in 2.6 b. Reimbursement of expenses for purchase of Medicines, Doctor Consultation Fees for Allopathic Treatment including Dental treatment, Diagnostic & Medical Tests etc. can be claimed subject to the entitlement Limit as Opted by employee\n\nAll Employees on Permanent Rolls are covered under this scheme\n\n*The word 'Dependent' in this policy refers to children, parents, parents-in-law of the officer (as per age and number prescribed in the policy) not gainfully employed or engaged into (a)vocation for remuneration or not covered under CGHS or any other employer's medical / mediclaim schemes) Declaration to this effect may be required from the officer.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 273,
+      "answer": "**The Details for Sl. Type of benefit 1.1 Mediclaim scheme for hospitalization**\nis Policy  coverage: Officers,  except  those  at  Jojobera,  are eligible for a family floater policy coverage, as per the table below: Work Level / Sum Insured Grade (₹per annum) MA, MB, MC  10,00,000 MD   7,00,000 ME01, ME02   5,00,000 ME03, ME04   4,00,000 Officers  at  Jojobera  are  covered  under  Tata  Main  Hospital, Tata  Motors  Hospital  and  Tinplate  Hospital  at  Jamshedpur. They  also  have  the  option  to  avail  a  mediclaim  cover  of ₹2,50,000 for which 50% of the premium will be paid by the Company and 50% paid by the officer.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 274,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.1 Mediclaim scheme for hospitalization**\nis Officer  &  family members  covered under  the  scheme. Details in 2.1",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 275,
+      "answer": "**The Details for Sl. Type of benefit 1.2 Mediclaim TopUp Cover**\nis Officers  can  opt  for  top  up  of  their  Mediclaim  cover  (sum insured)  as  decided  on  a  yearly  basis.  According  to  the officer’s choice & the work level, the premium amount shall be  paid  by  the  officer  through  deduction  in  salary.  The premium amount will be announced annually. The minimum base  coverage  eligible  for  availing  Top  Up  benefit  is ₹4.0 Lakhs.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.2 Mediclaim TopUp Cover - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 276,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.2 Mediclaim TopUp Cover**\nis Officer  &  family members  covered under  the  Mediclaim scheme",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.2 Mediclaim TopUp Cover - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 277,
+      "answer": "**The Details for Sl. Type of benefit 1.3 Medical Fund Scheme**\nis In case an officer or his family members incur hospitalization expenses in excess of the  sum insured  under the Mediclaim scheme for hospitalization, the excess amount can be claimed under  the  Medical  Fund  Scheme,  as  per  extant  rules  of  the scheme.  However,  10%  of  the  total  expenses  incurred (including  that  covered  by  the  Mediclaim scheme  for hospitalization) should be borne by the officer and out of the 90% of the total excess expenses, 50% shall be paid through Medical Fund Scheme and remaining 50% shall be paid by the company. Medical  Fund  Scheme  is  applicable  only  in  one  of  the following three cases: \n\n1.  \n\n  Sum insured exhausted- as explained above\n\n2.    Single Diagnostic Test of ₹2,000 & above\n\n3.  \n\n  Medical expenses like single diagnostic tests beyond Rs. 2000/-, high  cost  medicines  or  any  other  specific treatment  not  covered  under  the  Mediclaim  coverage shall be payable through this scheme after examination and  subject  to  approval  from Chief  medical  Officer (CMO).",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.3 Medical  Fund Scheme - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 278,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.3 Medical Fund Scheme**\nis Officer  &  family members,  covered under  the  Mediclaim scheme  except parents-in-law",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.3 Medical  Fund Scheme - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 279,
+      "answer": "**The Details for Sl. Type of benefit 1.4 Medical Advance in case of hospitalization**\nis Medical  advance  in  case  of  hospitalization  under  specified conditions and limits may be availed, subject to approval. This advance shall be recovered as follows: \n\n1.  \n\n  Adjustment  against  Mediclaim  amount  received  from insurance company\n\n2.  \n\n  Adjustment  against  amount  released  through  Medical Fund Scheme\n\n3.  \n\n  The balance amount shall be recovered in 6 or 12 or 24 equal monthly installments as defined in 2.4 [c]",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.4 Medical Advance  in case  of hospitalization - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 280,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.4 Medical Advance in case of hospitalization**\nis Officer  &  family members  covered under  the  Mediclaim scheme",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.4 Medical Advance  in case  of hospitalization - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 281,
+      "answer": "**The Details for Sl. Type of benefit 1.5 OPD facilities**\nis The OPD facilities provided are detailed in Clause 2.5",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.5 OPD facilities - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 282,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.5 OPD facilities**\nis Officer, spouse, dependent children",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.5 OPD facilities - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 283,
+      "answer": "**2. Details of health and wellness Scheme:**\n\n2.1  Mediclaim scheme:",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "2. Details of health and wellness Scheme:"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 284,
+      "answer": "**The Applicable to for Sl. Type of benefit **\nis (Parents subject to location specific guidelines)",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 285,
+      "answer": "**The Details for Sl. Type of benefit 1.6 Disbursement of medicines for chronic illness**\nis Medicines  for  chronic  diseases  may  be  availed  from  the Medical Centre, Carnac on approval of CMO, Tata Power.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 286,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.6 Disbursement of medicines for chronic illness**\nis Officer, spouse, dependent children & dependent parents",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 287,
+      "answer": "**The Details for Sl. Type of benefit 1.7 Executive Health Checkup ('EHC')**\nis a. Statutory EHC b. Wellness EHC",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 288,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.7 Executive Health Checkup ('EHC')**\nis Officer",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 289,
+      "answer": "**The Details for Sl. Type of benefit 1.8 Voluntary OPD Scheme V-OPD**\nis a. Available to Employees after opting for membership of VOPD scheme as defined in 2.6  b. Reimbursement  of  expenses  for  purchase  of  Medicines, Doctor  Consultation  Fees  for  Allopathic  Treatment including  Dental  treatment,  Diagnostic  & Medical  Tests etc. can be claimed subject to the entitlement Limit as Opted by employee",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Details for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 290,
+      "answer": "**The Applicable to for Sl. Type of benefit 1.8 Voluntary OPD Scheme V-OPD**\nis All Employees on Permanent Rolls are covered under this scheme",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicable to for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 291,
+      "answer": "\n\nMembers Covered\n\nPremium\n\nOfficer, Spouse and 2 dependent children (less than 22 years of age)\n\n100% borne by the Company\n\n(i)  3rd,  4th child (less than 22 years of age) (ii)  Either set of dependent parents or parents-in-law\n\n1.  \n\n  50% borne by the Company\n\n2.  \n\n  100% borne by the Company\n\nChildren who are 22 years of age or above but below 25 years of age, provided they are dependent and are unmarried\n\nFor 1st & 2nd child - 100% borne by the Company / 3rd & 4th child - 50% borne by the Company\n\nOfficers' children with special needs (as approved by CMO) who are 25 years of age or above and are dependent\n\n100% borne by the officer\n\nHandicapped / disabled siblings (brother/sister) provided they fulfill all the below criteria:\n\n1.  \n\n  They are dependent\n\n2.  \n\n  They are not married\n\n3.  \n\n  Appropriate certificate of being handicapped/disabled is produced\n\n100% borne by the officer\n\nSiblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased\n\n100% borne by the officer\n\nb.  All claims should be made within 60 days from the date of discharge from the hospital failing which claim may be disallowed.\n\nc.  Pre-hospitalization medical expenses incurred up to 30 days prior to hospitalization on disease / illness / injury sustained and post - hospitalization medical expenses incurred up to 60 days from  the  date  of  discharge  will  also  be  treated  as  part  of  the  claim,  within  prevailing guidelines of the insurance provider. \n\nd.  This policy covers medical treatment availed only in India. While on business travel overseas, officers need to ensure that they are covered under Foreign Travel Insurance provisions for the duration.\n\ne.  Officers  based  in  Jamshedpur  availing  facilities  of  the empaneled hospitals  may  opt  for Mediclaim cover of ₹2,50,000 for which 50% of the premium will be paid by the Company and 50% paid by the officer.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "a. Coverage and premium"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 292,
+      "answer": "**The Premium for Members Covered Officer, Spouse and 2 dependent children (less than 22 years of age)**\nis 100% borne by the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Premium for Members Covered Officer, Spouse and 2 dependent children (less than 22 years of age) - a. Coverage and premium"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 293,
+      "answer": "**The Premium for Members Covered (i) 3rd, 4th child (less than 22 years of age) (ii) Either set of dependent parents or parents-in-law**\nis \n\n1.  \n\n  50% borne by the Company\n\n2.  \n\n  100% borne by the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Premium for Members Covered (i) 3rd, 4th child (less than 22 years of age) (ii) Either set of dependent parents or parents-in-law - a. Coverage and premium"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 294,
+      "answer": "**The Premium for Members Covered Children who are 22 years of age or above but below 25 years of age, provided they are dependent and are unmarried**\nis For 1st & 2nd child - 100% borne by the Company / 3rd & 4th child - 50% borne by the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Premium for Members Covered Children who are 22 years of age or above but below 25 years of age, provided they are dependent and are unmarried - a. Coverage and premium"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 295,
+      "answer": "**The Premium for Members Covered Officers' children with special needs (as approved by CMO) who are 25 years of age or above and are dependent**\nis 100% borne by the officer",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Premium for Members Covered Officers' children with special needs (as approved by CMO) who are 25 years of age or above and are dependent - a. Coverage and premium"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 296,
+      "answer": "**The Premium for Members Covered Handicapped / disabled siblings (brother/sister) provided they fulfill all the below criteria: 1. They are dependent \n 2. They are not married \n 3. Appropriate certificate of being handicapped/disabled is produced **\nis 100% borne by the officer",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Premium for Members Covered Handicapped / disabled siblings (brother/sister) provided they fulfill all the below criteria:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 297,
+      "answer": "**The Premium for Members Covered Siblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased**\nis 100% borne by the officer",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Premium for Members Covered Siblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased - a. Coverage and premium"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 298,
+      "answer": "**2.2 Mediclaim Top- up cover**\n\n1.  \n\n  Top-up cover is applicable after the sum insured in the Mediclaim policy is exhausted.\n\n2.  \n\n  The minimum base coverage eligible for availing Top Up benefit is Rs 4.0 Lakhs.\n\n3.  \n\n  All conditions in the Mediclaim policy claim shall be applicable to the top up policy claim.\n\n4.  \n\n  The top-up cover is purely voluntary and shall be available to the officers after payment of the  additional  premium.  This  scheme  is  extended  by  the  insurance  company  on  their discretion. The insurance company may withdraw or extend the scheme and Company shall only facilitate the issuance of the policy.\n\n5.  \n\n  Every year, details of the top-up coverage including applicable premium for that year will be communicated to officers and option may be exercised.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "2.2 Mediclaim Top- up cover"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 299,
+      "answer": "New  joiners  need  to  enter  details  of dependents to  be  covered  under  the Mediclaim scheme, in the online system. During the year, dependent details can be modified /  updated  through  the  online  system  only  for  New  joinees,  addition  of  spouse  due  to marriage and child due to birth during the year. Officers in Jojobera to use the system for enrollment in the Mediclaim scheme.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "f. Enrollment: - a. Coverage and premium"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 300,
+      "answer": "Officers can claim Mediclaim through two methods:",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "g. Procedure: - a. Coverage and premium"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 301,
+      "answer": "Officers need to print the TPA (Third Party Administrator) e-card from the online mediclaim portal and present it to the hospital cashless counter for cashless request to the TPA. A cashless facility form will be given by the hospital which needs to be filled and submitted to the hospital cashless counter. At the time of discharge, final bill and discharge card will be sent to the insurance company to release payment to the hospital.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "Cashless: - a. Coverage and premium"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 302,
+      "answer": "Officers who do not avail cashless facility can claim hospitalization expenses  by  submitting  the  original  documents  (including  hospital  bills,  discharge card, cash memos, medicine bills, investigation reports etc.) from the hospital along with  a  duly  filled  Mediclaim  form  (available  on  the  online  portal)  to  the  Corporate Insurance Department in Mumbai.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "Reimbursement: - a. Coverage and premium"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 303,
+      "answer": "The  coverage  under  the  Mediclaim scheme  of  an  officer  who  superannuates  or  retires  on  Voluntary  Retirement  on  Medical Grounds (VRMG) will continue till the end of the financial year in which he/she retires and the  premium  for  this  period  will  be  borne  by  the  Company.  Retired  officers  and  their dependents  have  the  option  to  continue  with  the  Mediclaim  scheme by  paying  the  yearly premium at the beginning of each financial year. Exercise of this option must be made before last working day in prescribed format. Officers once discontinued from the scheme will not be able to join the scheme.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "h. Option  of  continuation  of  scheme  after  retirement:"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 304,
+      "answer": "**2.3 Medical Fund Scheme**\n\n1.  \n\n  This  is  a contributory  scheme  to  provide  aid  in  medical  treatment  to  officer  and  covered nominees under specified conditions as mentioned as sr. no. 1.3 contribution of ₹ 150/- in Medical Fund Scheme shall be done through salary of officers on quarterly basis as per existing practice. Officers are required to contribute to the scheme until separation.\n\n2.  \n\n  Family members not covered under the Mediclaim Scheme will not be eligible for aid from the Medical Fund Scheme. Parents-in-law, even if covered in the Mediclaim scheme are not eligible for coverage under the Medical Fund Scheme.\n\n3.    Procedure: To avail benefit under this scheme, the officer must apply on the online system and  submit  a  print  of  the  application form along  with original documents to  the  insurance department.  Upon  verification  and  as  per  extant  rules  of  the  scheme,  the  claims  will  be processed by TPA under Mediclaim policy.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "2.3 Medical Fund Scheme"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 305,
+      "answer": "**2.4 Monetary Advance in case of hospitalization**\n\n1.    Procedure: To avail this facility,  officers need to fill up the application form in Annexure 1 along with an estimate for the treatment, from doctor / surgeon and submit it to concerned Business  HR  for  verification  and  onward  transmission  to  Corporate  Insurance  Department.  Corporate Insurance will verify the eligibility and send the request to CMO. CMO will examine all relevant details of the request and recommend (or otherwise) sanction of advance to the approving authority. Advance amount will be released subsequent to approval.\n\n2.  \n\n  Within 60 days from the date of discharge from the hospital, the officer needs to submit the application for Mediclaim. The claim amount received will be adjusted against the advance disbursed. In case the hospitalization expenses are in excess of the eligibility under Mediclaim scheme, differential amount will be recovered from the officer's salary in maximum 6 or 12 or 24 equal monthly installments. In case there is an admissibility under Medical Fund Scheme, the  same  may  be  applied  for  separately  which  will  be  processed  as  per  provisions  of  the scheme. In case the expenses incurred are less than the advance taken, the balance needs to be returned within 2 weeks of discharge from the hospital.\n\n3.  \n\n  Officers  can  avail  a  maximum  advance  of  6  months  of  monthly  basic  salary  or  up  to  base Mediclaim  coverage  /  sum  insured  (excluding  any  top-up  coverage  availed  by  officer), whichever is higher. The concerned officer, processing officials and approving authority will exercise  due  discretion  in  deciding  the  amount  of  advance  as  per  need  and  nature  of  the ailment and treatment. Recovery of monetary advance will be as follows:\n\nAmount to be recovered\n\nNumber of months\n\nLess than 4 times of Basic Salary\n\n6\n\n4 times - 6 times of Basic Salary\n\n12\n\nMore than 6 times of Basic Salary (where sum insured is higher than 6 times of basic salary)\n\n24\n\nIn case an officer does not submit the Mediclaim application within 90 days of availing the monetary advance or within 60 days of discharge from the hospital, whichever is earlier, the recovery of the monetary advance will start from the officer's next payable monthly salary as per provisions in Clause 2.4 [c].",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "2.4 Monetary Advance in case of hospitalization"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 306,
+      "answer": "**The Number of months for Amount to be recovered Less than 4 times of Basic Salary**\nis 6",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Number of months for Amount to be recovered Less than 4 times of Basic Salary - 2.4 Monetary Advance in case of hospitalization"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 307,
+      "answer": "**The Number of months for Amount to be recovered 4 times - 6 times of Basic Salary**\nis 12",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Number of months for Amount to be recovered 4 times - 6 times of Basic Salary - 2.4 Monetary Advance in case of hospitalization"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 308,
+      "answer": "**The Number of months for Amount to be recovered More than 6 times of Basic Salary (where sum insured is higher than 6 times of basic salary)**\nis 24",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Number of months for Amount to be recovered More than 6 times of Basic Salary (where sum insured is higher than 6 times of basic salary) - 2.4 Monetary Advance in case of hospitalization"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 309,
+      "answer": "**2.5 OPD (Outdoor Patient department) facilities:**\n\nOPD facilities are extended to officers, spouse and dependent children / parents through one or more of the following means depending on the location/division of posting:\n\n1.  \n\n  Company Medical Centre\n\n2.  \n\n  Tie up with nearby hospitals / clinics in specific locations\n\n3.  \n\n  Pre-defined reimbursable limits for consultation and investigation charges\n\nWhile OPD is extended to officers and their family members exclusively in Company facilities at the  locations  having  company  medical  establishments,  in  other places  tie-up  with  reputed clinics/hospitals is made from time to time and limits for reimbursement of consultation charges are prescribed / approved (by CMO and CHRO) based on local conditions, distance and availability of medical facilities. These provisions will be standardized within the limitations of diversity of operating locations.\n\nReimbursement of cost of OPD treatment (or availing of company paid tie- up of OPD treatment) is permissible only in case of spouse, dependent children/parents are staying with the officer in the place of posting.\n\nThe OPD facilities cover only acute curative treatment and not chronic treatment. It excludes the following treatment:\n\n1.  \n\n  Vaccinations, Vitamins and Tonics\n\n2.  \n\n  Non-allopathic treatment\n\n3.  \n\n  Pregnancy related treatment\n\n4.  \n\n  Dental treatment\n\n5.  \n\n  Spectacles & Contact Lenses\n\n6.  \n\n  Physiotherapy not related to operation",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "2.5 OPD (Outdoor Patient department) facilities:"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 310,
+      "answer": "**2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:**\n\nVoluntary  OPD  Scheme  is  being  introduced  for  all  employees of  Tata  Power  and  its  Group Companies where Tata Power HR Policies and unified compensation structure is applicable. This V-OPD scheme is applicable w.e.f. 01.04.2020 and shall be administered as follows:\n\n1.  \n\n  V-OPD scheme is a voluntary scheme and all employees on permanent rolls of the company & who have opted for Mediclaim Policy can become members of the scheme by submitting their consent and making payment of Premium for Coverage (Claim) Entitlement of their choice.\n\n2.  \n\n  The Scheme is extended to all permanent Employees (Officers and Staff category both) and their Family members (Spouse, Children, Parents/Parents in Law).\n\n3.  \n\n  Members of the V-OPD Scheme can claim reimbursement on submissions of bills for purchase of Medicines, Doctor Consultation Fees for Allopathic Treatment including Dental treatment, Diagnostic & Medical Tests subject to the Coverage (Claim) Entitlement Limit Opted by the Employee. Employee must submit bills (in original) to TPA for their V-OPD claim.\n\n4.  \n\n  The Details of Premium payment and Overall Coverage (Claim) Entitlement are mentioned as follows:\n\nPremium (Rs) \n\nOverall OPD claim entitlement (Rs) \n\nAnnual benefit to Employee  (Rs) \n\n15000\n\n22500\n\n7500\n\n10000\n\n15000\n\n5000\n\n5000\n\n7500\n\n2500\n\ne.  The Employees shall become members of the Scheme on submission of i) Their consent for Membership, ii) Coverage Entitlement Option, and iii) Recovery of premium through Salary. The  recovery  for  Officer  cadre  employees  shall  be  done  in four quarterly  instalments, however for staff category employees, the recovery shall be done in ten equal instalments.\n\nf.  The membership of the scheme shall be for a period of One year and premature exit shall not be allowed. Employees can give their options for coverage / enhancement of coverage at the beginning of the year which shall not be modified during the year.\n\ng.  Incase of Separation of employee on account of resignation or otherwise, premium paid by the employee shall be refunded if no claim has been made by the employee concerned till the date of separation.\n\nh.  The  bills  submitted  must  be  original  and  should  be  from registered  medical  stores  / practitioners. Any case of malpractice shall be treated as a TCOC violation.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 311,
+      "answer": "**The Overall OPD claim entitlement (Rs) for Premium (Rs) 15000**\nis 22500",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Overall OPD claim entitlement (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 312,
+      "answer": "**The Annual benefit to Employee (Rs) for Premium (Rs) 15000**\nis 7500",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Annual benefit to Employee  (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 313,
+      "answer": "**The Overall OPD claim entitlement (Rs) for Premium (Rs) 10000**\nis 15000",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Overall OPD claim entitlement (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 314,
+      "answer": "**The Annual benefit to Employee (Rs) for Premium (Rs) 10000**\nis 5000",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Annual benefit to Employee  (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 315,
+      "answer": "**The Overall OPD claim entitlement (Rs) for Premium (Rs) 5000**\nis 7500",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Overall OPD claim entitlement (Rs) for Premium (Rs) 5000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 316,
+      "answer": "**The Annual benefit to Employee (Rs) for Premium (Rs) 5000**\nis 2500",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Annual benefit to Employee  (Rs) for Premium (Rs) 5000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 317,
+      "answer": "In order to support officers and their families who are affected by chronic illnesses,  the  Company  dispenses  generic  medicines  (within  available  budget)  for  the following  illnesses,  as  applicable.  The  list  of  illness  is  reviewed  periodically  and  suitable amends by way of additions/ deletion of ailments is made. \n\nSl\n\nIllness Covered\n\nApplicability\n\n1\n\nHypertension\n\nOfficers,  currently  in service of the Company\n\n2\n\nDiabetes (Tablets)\n\n3\n\nIschemic Heart Disease\n\n4\n\nCancer Chemotherapy not admissible under Mediclaim\n\nOfficers,  currently  in service of the Company\n\nSpouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company\n\n5\n\nImmuno- modulating medicines for transplants, etc.\n\n6\n\nInsulin for Diabetes\n\n7\n\nDyslipidemia\n\n8\n\nTB & Leprosy\n\n9\n\nUlcerative Colitis\n\n10\n\nEpilepsy & Parkinsonism\n\nb.  The  generic  medicines  for  the above-mentioned chronic  illnesses  are  available  at  Medical Centre, Carnac and the same can be obtained based on need.\n\nc.  Medicine bills are not reimbursed under the scheme.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "a. Illnesses covered:"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 318,
+      "answer": "To avail this facility,  officers need to fill the application form and send it to the CMO along with the copy of the prescription signed by a certified doctor/Divisional Medical Officer. Once verified, suitable action will be taken by Medical Centre, Carnac.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "d. Procedure: - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 319,
+      "answer": "**The Applicability for Sl Illness Covered 1 Hypertension**\nis Officers,  currently  in service of the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 1 Hypertension - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 320,
+      "answer": "**The Applicability for Sl Illness Covered 2 Diabetes (Tablets)**\nis Officers,  currently  in service of the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 2 Diabetes (Tablets) - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 321,
+      "answer": "**The Applicability for Sl Illness Covered 3 Ischemic Heart Disease**\nis Officers,  currently  in service of the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 3 Ischemic Heart Disease - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 322,
+      "answer": "**The Applicability for Sl Illness Covered 4 Cancer Chemotherapy not admissible under Mediclaim**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 4 Cancer Chemotherapy not admissible under Mediclaim - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 323,
+      "answer": "**The Applicability for Sl Illness Covered 5 Immuno- modulating medicines for transplants, etc.**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 5 Immuno- modulating medicines for transplants, etc. - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 324,
+      "answer": "**The Applicability for Sl Illness Covered 6 Insulin for Diabetes**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 6 Insulin for Diabetes - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 325,
+      "answer": "**The Applicability for Sl Illness Covered 7 Dyslipidemia**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 7 Dyslipidemia - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 326,
+      "answer": "**The Applicability for Sl Illness Covered 8 TB & Leprosy**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 8 TB & Leprosy - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 327,
+      "answer": "**The Applicability for Sl Illness Covered 9 Ulcerative Colitis**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 9 Ulcerative Colitis - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 328,
+      "answer": "**The Applicability for Sl Illness Covered 10 Epilepsy & Parkinsonism**\nis Officers,  currently  in service of the Company Spouse,  dependent children  and  dependent parents  of  officers currently  in  service  of  the Company",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Applicability for Sl Illness Covered 10 Epilepsy & Parkinsonism - 2.7 Disbursement of medicines for chronic illness"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 329,
+      "answer": "Frequency of Statutory EHC will be in line with legal statutes specific to the location / state, as applicable.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "Statutory EHC: - 2.8 Executive Health Checkup (EHC)"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 330,
+      "answer": "An officer working in non-statutory area can avail the facility of EHC, as per the table:\n\nAge\n\nFrequency\n\nLess than 40 years\n\nOnce in three years\n\n40 – 50 years\n\nOnce in two years\n\nMore than 50 years\n\nEvery year\n\nAs per CMO's advice\n\n",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "Wellness EHC: - 2.8 Executive Health Checkup (EHC)"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 331,
+      "answer": "**3. Roles and Responsibilities**\n\nRoles\n\nResponsibilities\n\nOfficers\n\n1.  \n\n  Enter details of dependents they want to cover under the medical scheme, in the online Mediclaim system\n\n2.  \n\n  Submit Mediclaim request within 60 days of date of discharge from hospital\n\n3.  \n\n  Return unused monetary advance within 2 weeks of discharge from hospital\n\n4.  \n\n  Submit application along with original supporting documents for Medical Fund Scheme, if required\n\n5.  \n\n  Submit application along with medical prescription for availing Medicines for Chronic Illness\n\nCorporate Insurance Team\n\n1.  \n\n  Facilitate the Mediclaim process through the TPA\n\n2.  \n\n  Facilitate the Mediclaim top up cover every year\n\n3.  \n\n  Facilitate the OPD cover every year through the TPA\n\n4.  \n\n  Facilitate the Medical fund Scheme every year through the TPA\n\n5.  \n\n  Follow up on the Mediclaim application to be submitted by officers who avail monetary advance\n\n6.  \n\n  Inform Payroll on amount of monetary advance to be recovered from any officer\n\nSBU HR\n\n(i)  Verify details of the officer who applies for the Medical Fund Scheme and forward it to the Corporate Insurance Department\n\nAccounts Team\n\n(ii)  Release monetary advance amount upon approval (iii)  Every week, send the list of officers who have availed monetary advance, to the Insurance and Payroll Team\n\nShared Services Payroll team\n\n(i)  Deduction of Mediclaim top - up premium for eligible officers (ii)  Recover medical advance amount from the officer's salary in equal installments\n\nChief Medical Officer\n\n1.  \n\n  Review all documents and recommend/reject application for Medical Fund Scheme\n\n2.  \n\n  Review all documents and recommend/reject monetary advance\n\n3.  \n\n  Final approval for dispensing of medicines for chronic illness\n\nCHRO\n\nOverall process and policy ownership\n\nAnnexure 1",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "3. Roles and Responsibilities"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 332,
+      "answer": "**The Frequency for Age Less than 40 years**\nis Once in three years",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Frequency for Age Less than 40 years - 2.8 Executive Health Checkup (EHC)"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 333,
+      "answer": "**The Frequency for Age 40 – 50 years**\nis Once in two years",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Frequency for Age 40 – 50 years - 2.8 Executive Health Checkup (EHC)"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 334,
+      "answer": "**The Frequency for Age More than 50 years**\nis Every year",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Frequency for Age More than 50 years - 2.8 Executive Health Checkup (EHC)"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 335,
+      "answer": "**The Frequency for Age As per CMO's advice**\nis Every year",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Frequency for Age As per CMO's advice - 2.8 Executive Health Checkup (EHC)"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 336,
+      "answer": "**The Responsibilities for Roles Officers**\nis \n\n1.  \n\n  Enter details of dependents they want to cover under the medical scheme, in the online Mediclaim system\n\n2.  \n\n  Submit Mediclaim request within 60 days of date of discharge from hospital\n\n3.  \n\n  Return unused monetary advance within 2 weeks of discharge from hospital\n\n4.  \n\n  Submit application along with original supporting documents for Medical Fund Scheme, if required\n\n5.  \n\n  Submit application along with medical prescription for availing Medicines for Chronic Illness",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles Officers - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 337,
+      "answer": "**The Responsibilities for Roles Corporate Insurance Team**\nis \n\n1.  \n\n  Facilitate the Mediclaim process through the TPA\n\n2.  \n\n  Facilitate the Mediclaim top up cover every year\n\n3.  \n\n  Facilitate the OPD cover every year through the TPA\n\n4.  \n\n  Facilitate the Medical fund Scheme every year through the TPA\n\n5.  \n\n  Follow up on the Mediclaim application to be submitted by officers who avail monetary advance\n\n6.  \n\n  Inform Payroll on amount of monetary advance to be recovered from any officer",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles Corporate Insurance Team - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 338,
+      "answer": "**The Responsibilities for Roles SBU HR**\nis (i) Verify details of the officer who applies for the Medical Fund Scheme and forward it to the Corporate Insurance Department",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles SBU HR - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 339,
+      "answer": "**The Responsibilities for Roles Accounts Team**\nis (ii) Release monetary advance amount upon approval (iii) Every week, send the list of officers who have availed monetary advance, to the Insurance and Payroll Team",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles Accounts Team - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 340,
+      "answer": "**The Responsibilities for Roles Shared Services Payroll team**\nis (i) Deduction of Mediclaim top - up premium for eligible officers (ii) Recover medical advance amount from the officer's salary in equal installments",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles Shared Services Payroll team - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 341,
+      "answer": "**The Responsibilities for Roles Chief Medical Officer**\nis \n\n1.  \n\n  Review all documents and recommend/reject application for Medical Fund Scheme\n\n2.  \n\n  Review all documents and recommend/reject monetary advance\n\n3.  \n\n  Final approval for dispensing of medicines for chronic illness",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles Chief Medical Officer - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 342,
+      "answer": "**The Responsibilities for Roles CHRO**\nis Overall process and policy ownership",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "The Responsibilities for Roles CHRO - 3. Roles and Responsibilities"
+      ],
+      "metadata": [
+        {
+          "name": "generatedfromtable",
+          "value": "true"
+        }
+      ],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 343,
+      "answer": "**REQUISITION FOR MEDICAL ADVANCE**\n\nDate:\n\n1.  \n\n  Name Employee No.  ,  Designation___________\n\n2.  \n\n  Cluster_______________SBU/Corp. Function: _____________Dept./Division: __________Grade:\n\n3.  \n\n  Please sanction medical advance, as per details below:\n\n    1.  \n\n  Amount:    (In words)\n\n2.  \n\n  Name of the patient:\n\n3.  \n\n  Relationship (Self / Spouse / Dependent children / Dependent parents):_______________________\n\n4.  \n\n  Details of the sickness/ hospitalization:\n\n    1.  \n\n  Suffering from  _______ \n\n    2.  \n\n  Name of hospital where patient is undergoing treatment _______ \n\n    3.  \n\n  Date of hospitalization/estimated duration of stay  ______________ \n\n    4.  \n\n  Name of the attending doctor _______ \n\n    5.    Estimate from the doctor/ surgeon (Enclose the estimate)_____________________________ \n\n4.  \n\n  Kindly adjust the amount against the Mediclaim amount received from the insurance company/amount released through Medical Fund Scheme and the balance, if any may be recovered from my salary as per Company policy.\n\n5.  \n\n  The amount of advance, if unutilized, will be returned to the Company immediately.",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "REQUISITION FOR MEDICAL ADVANCE"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 344,
+      "answer": "**(Name & Signature of the applicant) (Name & Signature of Cluster / SBU HR Head)**\n\n(To be filled in by Accounts dept./ Concerned office)\n\nDetails of advance, if any, availed earlier: Amount: ____________________Balance (if any)_____________  Reasons for availing the advance earlier (state type of illness/ hospitalization/ surgery etc.:\n\nRecommendation by SBU/Divisional Head: (Name, Designation & Signature) \n\n(Name, Designation & Signature) Recommendation for Advance by Chief Medical Officer  after Verification of documents / estimates:\n\nAmount Recommended for Advance:______________, Rupees in words:______________________ ____________________________________________________ \n\n(Name & Signature)\n\nApproving Authority for Medical Advance: WL-MB (upto ₹1,00,000/-), WL-MA (CHRO - upto ₹5,00,000/-), and amount >₹5,00,000/- to be approved by CEO&MD)\n\nMedical Advance Approved:_____________________\n\nName, Designation and Signature of Approving Authority:________________________________________\n\nIn  case  the  employee's  spouse/  dependent  children  make  the  request  application,  the  SBU  HR  should  verify the  credentials before processing the advance amount. Once the amount is sanctioned, a copy of sanctioned letter to be \n\nshared with Head – Medical, Insurance Dept., FCOE and Shared Services Payroll Team mandatorily.\n\nHealth & Wellness Policy               Version 1.1                  Release Date 10th April 2020         Pg. 9",
+      "source": "health-wellness-policy.pdf",
+      "questions": [
+        "(Name & Signature of the applicant)                                                    (Name & Signature of Cluster / SBU HR Head)"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 345,
+      "answer": "Mediclaim scheme for hospitalization\n\nPolicy coverage: Officers, except those at Jojobera, are eligible for a family floater policy coverage, as per the table below:\n\nWork Level / Sum Insured Grade (₹per annum)\n\nMA, MB, MC - 10,00,000\n\nMD - 7,00,000\n\nME01, ME02 - 5,00,000\n\nME03, ME04 - 4,00,000",
+      "source": "Editorial",
+      "questions": [
+        "Mediclaim scheme for hospitalization"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": [
+          {
+            "displayOrder": 0,
+            "qnaId": 346,
+            "displayText": "More details"
+          }
+        ]
+      }
+    },
+    {
+      "id": 346,
+      "answer": "Officers at Jojobera are covered under Tata Main Hospital, Tata Motors Hospital and Tinplate Hospital at Jamshedpur. They also have the option to avail a mediclaim cover of ₹2,50,000 for which 50% of the premium will be paid by the Company and 50% paid by the officer.\n\nOfficer & family members covered under the scheme.\n\nAll claims should be made within 60 days from the date of discharge from the hospital failing which claim may be disallowed.\n\nPre-hospitalization medical expenses incurred up to 30 days prior to hospitalization on disease / illness / injury sustained and post - hospitalization medical expenses incurred up to 60 days from the date of discharge will also be treated as part of the claim, within prevailing guidelines of the insurance provider.",
+      "source": "Editorial",
+      "questions": [
+        "Detailed mediclaim scheme for hospitalization"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 347,
+      "answer": "Test A1",
+      "source": "Editorial",
+      "questions": [
+        "Test Q1"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    },
+    {
+      "id": 348,
+      "answer": "Test A2",
+      "source": "Editorial",
+      "questions": [
+        "Test Q2"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      }
+    }
+  ]
+}

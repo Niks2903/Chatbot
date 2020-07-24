@@ -1,0 +1,2 @@
+Utterance	Intents
+number of annual leaves	l_chat-policy, q_chat-qna

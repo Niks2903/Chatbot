@@ -1,0 +1,758 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_chat-policy"
+    },
+    {
+      "name": "q_chat-qna"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "number of annual leaves",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "no. of annual leaves",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "how many annual leaves am i eligible for",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "i want sick leave for 10 days",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "i need annual leave as am going out of town for 5 days.",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "can i take sick leave for 4 weeks",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "how many sick leaves can i take",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "show me number of leaves",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "how many leaves do i have remaining",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "tell me no. of leaves",
+      "intent": "l_chat-policy",
+      "entities": []
+    },
+    {
+      "text": "give me details of sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.8 voluntary  opd scheme v-opd - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "pms for ml & eml",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "no. of sick leaves",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "2.2 mediclaim top- up cover",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "(name & signature of the applicant)                                                    (name & signature of cluster / sbu hr head)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed adoption leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "encashment of sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "what is the leave policy regarding annual leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.6 disbursement of  medicines for  chronic illness - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 10 epilepsy & parkinsonism - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles chief medical officer - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed maternity leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the frequency for age less than 40 years - 2.8 executive health checkup (ehc)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "procedure for availing leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "tell me about annual leave.",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 9 ulcerative colitis - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "2.5 opd (outdoor patient department) facilities:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.1 mediclaim scheme  for hospitalization - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "mediclaim scheme for hospitalization",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "annual leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "how many annual leaves can i take",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 4 cancer chemotherapy not admissible under mediclaim - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "2. details of health and wellness scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "e muster",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the annual benefit to employee  (rs) for premium (rs) 15000 - 2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 8 tb & leprosy - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "how many annual leaves am i eligible for",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "leave on account of “bandh”",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the premium for members covered siblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 3 ischemic heart disease - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "requisition for medical advance",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "encashment of annual leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the number of months for amount to be recovered more than 6 times of basic salary (where sum insured is higher than 6 times of basic salary) - 2.4 monetary advance in case of hospitalization",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.7 executive health  checkup ('ehc') - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "surrogacy leave for women",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "process of application:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the premium for members covered officers' children with special needs (as approved by cmo) who are 25 years of age or above and are dependent - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "public holidays",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the annual benefit to employee  (rs) for premium (rs) 10000 - 2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 5 immuno- modulating medicines for transplants, etc. - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.8 voluntary  opd scheme v-opd - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "leave balance in case of deputation",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "leave policy",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "number of sick leaves",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.7 executive health  checkup ('ehc') - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the frequency for age as per cmo's advice - 2.8 executive health checkup (ehc)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "d. procedure: - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "surrogacy leave for men",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.2 mediclaim topup cover - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 6 insulin for diabetes - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "2.3 medical fund scheme",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "adoption leave for men",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "give me details of annual leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the number of months for amount to be recovered 4 times - 6 times of basic salary - 2.4 monetary advance in case of hospitalization",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "g. procedure: - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.4 medical advance  in case  of hospitalization - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "statutory ehc: - 2.8 executive health checkup (ehc)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 1 hypertension - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "marriage leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed surrogacy leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "do you know about sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "wellness ehc: - 2.8 executive health checkup (ehc)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.3 medical  fund scheme - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.1 mediclaim scheme  for hospitalization - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "higher education leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "a. illnesses covered:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "what is the leave policy regarding sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "workplace accident leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the number of months for amount to be recovered less than 4 times of basic salary - 2.4 monetary advance in case of hospitalization",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the annual benefit to employee  (rs) for premium (rs) 5000 - 2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the premium for members covered handicapped / disabled siblings (brother/sister) provided they fulfill all the below criteria:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "do you know about annual leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 2 diabetes (tablets) - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the overall opd claim entitlement (rs) for premium (rs) 15000 - 2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles sbu hr - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "maternity leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "tell me about sick leave.",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "compensatory leaves for holidays",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles chro - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "namaste",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed sabbatical leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "how many sick leaves am i eligible for",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "reimbursement: - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the overall opd claim entitlement (rs) for premium (rs) 10000 - 2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "h. option  of  continuation  of  scheme  after  retirement:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "extended maternity leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "can i take annual leave for 4 weeks",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "i want annual leave for 10 days.",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.2 mediclaim topup cover - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.6 disbursement of  medicines for  chronic illness - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "compassionate leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "paternity leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "good afternoon",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "relocation leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "sabbatical leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the premium for members covered children who are 22 years of age or above but below 25 years of age, provided they are dependent and are unmarried - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "adoption leave for women",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.4 medical advance  in case  of hospitalization - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "2.4 monetary advance in case of hospitalization",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.3 medical  fund scheme - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "test q2",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the frequency for age 40 – 50 years - 2.8 executive health checkup (ehc)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles shared services payroll team - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicable to for sl. type of benefit 1.5 opd facilities - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the details for sl. type of benefit 1.5 opd facilities - 1. summary of health and wellness benefits applicable to officers",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "how many sick leaves can i take",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the premium for members covered (i) 3rd, 4th child (less than 22 years of age) (ii) either set of dependent parents or parents-in-law - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "test q1",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "compensatory leaves for weekly off",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles accounts team - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed mediclaim scheme for hospitalization",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed extended maternity leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "f. enrollment: - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles corporate insurance team - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the responsibilities for roles officers - 3. roles and responsibilities",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "special sick leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the frequency for age more than 50 years - 2.8 executive health checkup (ehc)",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the overall opd claim entitlement (rs) for premium (rs) 5000 - 2.6 voluntary opd (outdoor patient department) scheme – v-opd scheme:",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the applicability for sl illness covered 7 dyslipidemia - 2.7 disbursement of medicines for chronic illness",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "cashless: - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "the premium for members covered officer, spouse and 2 dependent children (less than 22 years of age) - a. coverage and premium",
+      "intent": "q_chat-qna",
+      "entities": []
+    },
+    {
+      "text": "detailed paternity leave",
+      "intent": "q_chat-qna",
+      "entities": []
+    }
+  ],
+  "versionId": "Dispatch",
+  "name": "dispatcher",
+  "desc": "Dispatch model for dispatcher",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

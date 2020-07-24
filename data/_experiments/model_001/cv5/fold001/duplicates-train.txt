@@ -1,0 +1,5 @@
+Utterance	Intents
+how many sick leaves can i take	l_chat-policy, q_chat-qna
+number of annual leaves	l_chat-policy, q_chat-qna
+can i take sick leave for 4 weeks	l_chat-policy, q_chat-qna
+no. of annual leaves	l_chat-policy, q_chat-qna

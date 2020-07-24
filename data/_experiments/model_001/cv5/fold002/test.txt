@@ -1,0 +1,30 @@
+Label	Weight	Text
+l_chat-policy	1	i need annual leave as am going out of town for 5 days.
+l_chat-policy	1	can i take sick leave for 4 weeks
+q_chat-qna	1	The Details for Sl. Type of benefit 1.2 Mediclaim TopUp Cover - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Applicability for Sl Illness Covered 6 Insulin for Diabetes - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	2.3 Medical Fund Scheme
+q_chat-qna	1	Adoption leave for men
+q_chat-qna	1	Give me details of annual leave
+q_chat-qna	1	The Number of months for Amount to be recovered 4 times - 6 times of Basic Salary - 2.4 Monetary Advance in case of hospitalization
+q_chat-qna	1	g. Procedure: - a. Coverage and premium
+q_chat-qna	1	No. of annual leaves
+q_chat-qna	1	The Details for Sl. Type of benefit 1.4 Medical Advance  in case  of hospitalization - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Statutory EHC: - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	The Applicability for Sl Illness Covered 1 Hypertension - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	Marriage Leave
+q_chat-qna	1	Detailed Surrogacy Leave
+q_chat-qna	1	Do you know about sick leave
+q_chat-qna	1	Wellness EHC: - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	The Details for Sl. Type of benefit 1.3 Medical  Fund Scheme - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Details for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Applicable to for Sl. Type of benefit - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Higher Education Leave
+q_chat-qna	1	a. Illnesses covered:
+q_chat-qna	1	What is the leave policy regarding sick leave
+q_chat-qna	1	Workplace Accident Leave
+q_chat-qna	1	Hello
+q_chat-qna	1	The Number of months for Amount to be recovered Less than 4 times of Basic Salary - 2.4 Monetary Advance in case of hospitalization
+q_chat-qna	1	The Annual benefit to Employee  (Rs) for Premium (Rs) 5000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Premium for Members Covered Handicapped / disabled siblings (brother/sister) provided they fulfill all the below criteria:
+q_chat-qna	1	Do you know about annual leave

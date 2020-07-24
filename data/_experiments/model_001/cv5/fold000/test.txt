@@ -1,0 +1,30 @@
+Label	Weight	Text
+l_chat-policy	1	number of annual leaves
+l_chat-policy	1	no. of annual leaves
+q_chat-qna	1	Give me details of sick leave
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	PMS for ML & EML
+q_chat-qna	1	Detailed Sick Leave
+q_chat-qna	1	No. of sick leaves
+q_chat-qna	1	2.2 Mediclaim Top- up cover
+q_chat-qna	1	(Name & Signature of the applicant)                                                    (Name & Signature of Cluster / SBU HR Head)
+q_chat-qna	1	Detailed Adoption Leave
+q_chat-qna	1	Encashment of sick leave
+q_chat-qna	1	What is the leave policy regarding annual leave
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Applicability for Sl Illness Covered 10 Epilepsy & Parkinsonism - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	The Responsibilities for Roles Chief Medical Officer - 3. Roles and Responsibilities
+q_chat-qna	1	Detailed Maternity Leave
+q_chat-qna	1	The Frequency for Age Less than 40 years - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	Number of annual leaves
+q_chat-qna	1	a. Coverage and premium
+q_chat-qna	1	Procedure for availing Leave
+q_chat-qna	1	Tell me about annual leave.
+q_chat-qna	1	The Applicability for Sl Illness Covered 9 Ulcerative Colitis - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	2.5 OPD (Outdoor Patient department) facilities:
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Mediclaim scheme for hospitalization
+q_chat-qna	1	Can I take sick leave for 4 weeks
+q_chat-qna	1	Good morning
+q_chat-qna	1	Annual Leave
+q_chat-qna	1	How many annual leaves can I take

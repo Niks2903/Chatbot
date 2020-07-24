@@ -1,0 +1,4 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_chat-policy	10	31.1	55	20	10.61917
+1	q_chat-qna	134	66.49254	190	2	52.36048
+ 	__ALL__	144	64.03472	190	2	51.36642

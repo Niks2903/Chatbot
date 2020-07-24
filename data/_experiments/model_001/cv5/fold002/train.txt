@@ -1,0 +1,119 @@
+Label	Weight	Text
+l_chat-policy	1	number of annual leaves
+l_chat-policy	1	no. of annual leaves
+l_chat-policy	1	how many annual leaves am i eligible for
+l_chat-policy	1	i want sick leave for 10 days
+l_chat-policy	1	how many sick leaves can i take
+l_chat-policy	1	show me number of leaves
+l_chat-policy	1	how many leaves do i have remaining
+l_chat-policy	1	tell me no. of leaves
+q_chat-qna	1	Give me details of sick leave
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	PMS for ML & EML
+q_chat-qna	1	Detailed Sick Leave
+q_chat-qna	1	No. of sick leaves
+q_chat-qna	1	2.2 Mediclaim Top- up cover
+q_chat-qna	1	(Name & Signature of the applicant)                                                    (Name & Signature of Cluster / SBU HR Head)
+q_chat-qna	1	Detailed Adoption Leave
+q_chat-qna	1	Encashment of sick leave
+q_chat-qna	1	What is the leave policy regarding annual leave
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Applicability for Sl Illness Covered 10 Epilepsy & Parkinsonism - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	The Responsibilities for Roles Chief Medical Officer - 3. Roles and Responsibilities
+q_chat-qna	1	Detailed Maternity Leave
+q_chat-qna	1	The Frequency for Age Less than 40 years - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	Number of annual leaves
+q_chat-qna	1	a. Coverage and premium
+q_chat-qna	1	Procedure for availing Leave
+q_chat-qna	1	Tell me about annual leave.
+q_chat-qna	1	The Applicability for Sl Illness Covered 9 Ulcerative Colitis - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	2.5 OPD (Outdoor Patient department) facilities:
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Mediclaim scheme for hospitalization
+q_chat-qna	1	Can I take sick leave for 4 weeks
+q_chat-qna	1	Good morning
+q_chat-qna	1	Annual Leave
+q_chat-qna	1	How many annual leaves can I take
+q_chat-qna	1	The Applicability for Sl Illness Covered 4 Cancer Chemotherapy not admissible under Mediclaim - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	2. Details of health and wellness Scheme:
+q_chat-qna	1	E muster
+q_chat-qna	1	The Annual benefit to Employee  (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Applicability for Sl Illness Covered 8 TB & Leprosy - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	How many annual Leaves am I eligible for
+q_chat-qna	1	Leave on Account of “Bandh”
+q_chat-qna	1	The Premium for Members Covered Siblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased - a. Coverage and premium
+q_chat-qna	1	The Applicability for Sl Illness Covered 3 Ischemic Heart Disease - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	REQUISITION FOR MEDICAL ADVANCE
+q_chat-qna	1	Encashment of Annual Leave
+q_chat-qna	1	The Number of months for Amount to be recovered More than 6 times of Basic Salary (where sum insured is higher than 6 times of basic salary) - 2.4 Monetary Advance in case of hospitalization
+q_chat-qna	1	The Details for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Surrogacy Leave for women
+q_chat-qna	1	Process of application:
+q_chat-qna	1	The Premium for Members Covered Officers' children with special needs (as approved by CMO) who are 25 years of age or above and are dependent - a. Coverage and premium
+q_chat-qna	1	Public Holidays
+q_chat-qna	1	The Annual benefit to Employee  (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Applicability for Sl Illness Covered 5 Immuno- modulating medicines for transplants, etc. - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	The Details for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Leave Balance in case of Deputation
+q_chat-qna	1	leave policy
+q_chat-qna	1	Number of sick leaves
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Frequency for Age As per CMO's advice - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	d. Procedure: - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	Surrogacy leave for men
+q_chat-qna	1	The Applicability for Sl Illness Covered 2 Diabetes (Tablets) - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	The Overall OPD claim entitlement (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Responsibilities for Roles SBU HR - 3. Roles and Responsibilities
+q_chat-qna	1	Maternity Leave
+q_chat-qna	1	Tell me about sick leave.
+q_chat-qna	1	Compensatory Leaves for Holidays
+q_chat-qna	1	The Responsibilities for Roles CHRO - 3. Roles and Responsibilities
+q_chat-qna	1	3. Roles and Responsibilities
+q_chat-qna	1	Namaste
+q_chat-qna	1	Detailed Sabbatical Leave
+q_chat-qna	1	How many sick Leaves am I eligible for
+q_chat-qna	1	Reimbursement: - a. Coverage and premium
+q_chat-qna	1	2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Overall OPD claim entitlement (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	h. Option  of  continuation  of  scheme  after  retirement:
+q_chat-qna	1	Extended Maternity Leave
+q_chat-qna	1	Can I take annual leave for 4 weeks
+q_chat-qna	1	I want annual leave for 10 days.
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.2 Mediclaim TopUp Cover - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Details for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Compassionate Leave
+q_chat-qna	1	Paternity Leave
+q_chat-qna	1	Good afternoon
+q_chat-qna	1	Relocation Leave
+q_chat-qna	1	Sabbatical Leave
+q_chat-qna	1	The Premium for Members Covered Children who are 22 years of age or above but below 25 years of age, provided they are dependent and are unmarried - a. Coverage and premium
+q_chat-qna	1	Adoption Leave for women
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.4 Medical Advance  in case  of hospitalization - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	2.4 Monetary Advance in case of hospitalization
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.3 Medical  Fund Scheme - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Test Q2
+q_chat-qna	1	The Frequency for Age 40 – 50 years - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	The Responsibilities for Roles Shared Services Payroll team - 3. Roles and Responsibilities
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.5 OPD facilities - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Details for Sl. Type of benefit 1.5 OPD facilities - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	How many sick leaves can I take
+q_chat-qna	1	The Premium for Members Covered (i) 3rd, 4th child (less than 22 years of age) (ii) Either set of dependent parents or parents-in-law - a. Coverage and premium
+q_chat-qna	1	Hey
+q_chat-qna	1	Test Q1
+q_chat-qna	1	Compensatory Leaves for weekly off
+q_chat-qna	1	The Responsibilities for Roles Accounts Team - 3. Roles and Responsibilities
+q_chat-qna	1	Detailed mediclaim scheme for hospitalization
+q_chat-qna	1	Detailed Extended Maternity leave
+q_chat-qna	1	f. Enrollment: - a. Coverage and premium
+q_chat-qna	1	The Responsibilities for Roles Corporate Insurance Team - 3. Roles and Responsibilities
+q_chat-qna	1	Sick Leave
+q_chat-qna	1	The Responsibilities for Roles Officers - 3. Roles and Responsibilities
+q_chat-qna	1	Special Sick Leave
+q_chat-qna	1	Hi
+q_chat-qna	1	The Frequency for Age More than 50 years - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	The Overall OPD claim entitlement (Rs) for Premium (Rs) 5000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Applicability for Sl Illness Covered 7 Dyslipidemia - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	Cashless: - a. Coverage and premium
+q_chat-qna	1	The Premium for Members Covered Officer, Spouse and 2 dependent children (less than 22 years of age) - a. Coverage and premium
+q_chat-qna	1	Detailed Paternity Leave

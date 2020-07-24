@@ -1,0 +1,4 @@
+Utterance	Intents
+how many sick leaves can i take	l_chat-policy, q_chat-qna
+how many annual leaves am i eligible for	l_chat-policy, q_chat-qna
+number of annual leaves	l_chat-policy, q_chat-qna

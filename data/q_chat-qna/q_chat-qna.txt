@@ -1,0 +1,137 @@
+Maternity Leave
+Detailed Maternity Leave
+Adoption Leave for women
+Surrogacy Leave for women
+Extended Maternity Leave
+Detailed Adoption Leave
+Detailed Surrogacy Leave
+Sick Leave
+How many sick Leaves am I eligible for
+How many sick leaves can I take
+Tell me about sick leave.
+Give me details of sick leave
+Do you know about sick leave
+What is the leave policy regarding sick leave 
+Detailed Sick Leave
+Special Sick Leave
+Encashment of sick leave
+Detailed Extended Maternity leave
+Paternity Leave
+Adoption leave for men
+Surrogacy leave for men
+Detailed Paternity Leave
+Marriage Leave
+Sabbatical Leave
+Detailed Sabbatical Leave
+Relocation Leave
+Compassionate Leave
+Higher Education Leave
+Workplace Accident Leave
+PMS for ML & EML
+Process of application:
+Leave on Account of “Bandh”
+Leave Balance in case of Deputation
+Compensatory Leaves for weekly off
+Compensatory Leaves for Holidays
+Public Holidays
+E muster
+Procedure for availing Leave
+Hi
+Hello
+Hey
+Good morning
+Good afternoon
+Namaste
+leave policy
+Annual Leave
+How many annual Leaves am I eligible for
+How many annual leaves can I take
+I want annual leave for 10 days.
+Tell me about annual leave.
+Give me details of annual leave
+No. of annual leaves
+Number of annual leaves
+Do you know about annual leave
+What is the leave policy regarding annual leave 
+Can I take annual leave for 4 weeks
+Encashment of Annual Leave
+Can I take sick leave for 4 weeks
+No. of sick leaves
+Number of sick leaves
+1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.1 Mediclaim scheme  for hospitalization - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.2 Mediclaim TopUp Cover - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.2 Mediclaim TopUp Cover - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.3 Medical  Fund Scheme - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.3 Medical  Fund Scheme - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.4 Medical Advance  in case  of hospitalization - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.4 Medical Advance  in case  of hospitalization - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.5 OPD facilities - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.5 OPD facilities - 1. Summary of health and wellness benefits applicable to officers
+2. Details of health and wellness Scheme:
+The Applicable to for Sl. Type of benefit - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.6 Disbursement of  medicines for  chronic illness - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers
+The Details for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers
+The Applicable to for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers
+a. Coverage and premium
+The Premium for Members Covered Officer, Spouse and 2 dependent children (less than 22 years of age) - a. Coverage and premium
+The Premium for Members Covered (i) 3rd, 4th child (less than 22 years of age) (ii) Either set of dependent parents or parents-in-law - a. Coverage and premium
+The Premium for Members Covered Children who are 22 years of age or above but below 25 years of age, provided they are dependent and are unmarried - a. Coverage and premium
+The Premium for Members Covered Officers' children with special needs (as approved by CMO) who are 25 years of age or above and are dependent - a. Coverage and premium
+The Premium for Members Covered Handicapped / disabled siblings (brother/sister) provided they fulfill all the below criteria:
+The Premium for Members Covered Siblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased - a. Coverage and premium
+2.2 Mediclaim Top- up cover
+f. Enrollment: - a. Coverage and premium
+g. Procedure: - a. Coverage and premium
+Cashless: - a. Coverage and premium
+Reimbursement: - a. Coverage and premium
+h. Option  of  continuation  of  scheme  after  retirement:
+2.3 Medical Fund Scheme
+2.4 Monetary Advance in case of hospitalization
+The Number of months for Amount to be recovered Less than 4 times of Basic Salary - 2.4 Monetary Advance in case of hospitalization
+The Number of months for Amount to be recovered 4 times - 6 times of Basic Salary - 2.4 Monetary Advance in case of hospitalization
+The Number of months for Amount to be recovered More than 6 times of Basic Salary (where sum insured is higher than 6 times of basic salary) - 2.4 Monetary Advance in case of hospitalization
+2.5 OPD (Outdoor Patient department) facilities:
+2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+The Overall OPD claim entitlement (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+The Annual benefit to Employee  (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+The Overall OPD claim entitlement (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+The Annual benefit to Employee  (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+The Overall OPD claim entitlement (Rs) for Premium (Rs) 5000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+The Annual benefit to Employee  (Rs) for Premium (Rs) 5000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+a. Illnesses covered:
+d. Procedure: - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 1 Hypertension - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 2 Diabetes (Tablets) - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 3 Ischemic Heart Disease - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 4 Cancer Chemotherapy not admissible under Mediclaim - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 5 Immuno- modulating medicines for transplants, etc. - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 6 Insulin for Diabetes - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 7 Dyslipidemia - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 8 TB & Leprosy - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 9 Ulcerative Colitis - 2.7 Disbursement of medicines for chronic illness
+The Applicability for Sl Illness Covered 10 Epilepsy & Parkinsonism - 2.7 Disbursement of medicines for chronic illness
+Statutory EHC: - 2.8 Executive Health Checkup (EHC)
+Wellness EHC: - 2.8 Executive Health Checkup (EHC)
+3. Roles and Responsibilities
+The Frequency for Age Less than 40 years - 2.8 Executive Health Checkup (EHC)
+The Frequency for Age 40 – 50 years - 2.8 Executive Health Checkup (EHC)
+The Frequency for Age More than 50 years - 2.8 Executive Health Checkup (EHC)
+The Frequency for Age As per CMO's advice - 2.8 Executive Health Checkup (EHC)
+The Responsibilities for Roles Officers - 3. Roles and Responsibilities
+The Responsibilities for Roles Corporate Insurance Team - 3. Roles and Responsibilities
+The Responsibilities for Roles SBU HR - 3. Roles and Responsibilities
+The Responsibilities for Roles Accounts Team - 3. Roles and Responsibilities
+The Responsibilities for Roles Shared Services Payroll team - 3. Roles and Responsibilities
+The Responsibilities for Roles Chief Medical Officer - 3. Roles and Responsibilities
+The Responsibilities for Roles CHRO - 3. Roles and Responsibilities
+REQUISITION FOR MEDICAL ADVANCE
+(Name & Signature of the applicant)                                                    (Name & Signature of Cluster / SBU HR Head)
+Mediclaim scheme for hospitalization
+Detailed mediclaim scheme for hospitalization
+Test Q1
+Test Q2

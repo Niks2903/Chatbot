@@ -1,0 +1,30 @@
+Label	Weight	Text
+l_chat-policy	1	how many annual leaves am i eligible for
+l_chat-policy	1	i want sick leave for 10 days
+q_chat-qna	1	The Applicability for Sl Illness Covered 4 Cancer Chemotherapy not admissible under Mediclaim - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	2. Details of health and wellness Scheme:
+q_chat-qna	1	E muster
+q_chat-qna	1	The Annual benefit to Employee  (Rs) for Premium (Rs) 15000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Applicability for Sl Illness Covered 8 TB & Leprosy - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	How many annual Leaves am I eligible for
+q_chat-qna	1	Leave on Account of “Bandh”
+q_chat-qna	1	The Premium for Members Covered Siblings (brother/sister) of unmarried officers provided they are dependent on the officer and both parents are deceased - a. Coverage and premium
+q_chat-qna	1	The Applicability for Sl Illness Covered 3 Ischemic Heart Disease - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	REQUISITION FOR MEDICAL ADVANCE
+q_chat-qna	1	Encashment of Annual Leave
+q_chat-qna	1	The Number of months for Amount to be recovered More than 6 times of Basic Salary (where sum insured is higher than 6 times of basic salary) - 2.4 Monetary Advance in case of hospitalization
+q_chat-qna	1	The Details for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Surrogacy Leave for women
+q_chat-qna	1	Process of application:
+q_chat-qna	1	The Premium for Members Covered Officers' children with special needs (as approved by CMO) who are 25 years of age or above and are dependent - a. Coverage and premium
+q_chat-qna	1	Public Holidays
+q_chat-qna	1	The Annual benefit to Employee  (Rs) for Premium (Rs) 10000 - 2.6 Voluntary OPD (Outdoor Patient department) Scheme – V-OPD Scheme:
+q_chat-qna	1	The Applicability for Sl Illness Covered 5 Immuno- modulating medicines for transplants, etc. - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	The Details for Sl. Type of benefit 1.8 Voluntary  OPD Scheme V-OPD - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	Leave Balance in case of Deputation
+q_chat-qna	1	leave policy
+q_chat-qna	1	Number of sick leaves
+q_chat-qna	1	The Applicable to for Sl. Type of benefit 1.7 Executive Health  Checkup ('EHC') - 1. Summary of health and wellness benefits applicable to officers
+q_chat-qna	1	The Frequency for Age As per CMO's advice - 2.8 Executive Health Checkup (EHC)
+q_chat-qna	1	d. Procedure: - 2.7 Disbursement of medicines for chronic illness
+q_chat-qna	1	Surrogacy leave for men
