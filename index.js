@@ -79,13 +79,11 @@ adapter.onTurnError = async (context, error) => {
 // Create the bot's main handler.
 //const bot = new QnABot(conversationState, userState, dialog);
 const bot = new DispatchBot();
-turnContext = "sick leave";
-bot.run(turnContext);
 
 // Listen for incoming requests.
-// server.post('/api/messages', (req, res) => {
-//     adapter.processActivity(req, res, async (turnContext) => {
-//         // Route the message to the bot's main handler.
-//         await bot.run(turnContext);
-//     });
-// });
+server.post('/api/messages', (req, res) => {
+    adapter.processActivity(req, res, async (turnContext) => {
+        // Route the message to the bot's main handler.
+        await bot.run(turnContext);
+    });
+});
